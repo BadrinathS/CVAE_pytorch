@@ -1,2 +1,0 @@
-/opt/conda/envs/face/lib/python3.6/site-packages/torchvision/datasets/mnist.py:45: UserWarning: train_labels has been renamed targets
-  warnings.warn("train_labels has been renamed targets")

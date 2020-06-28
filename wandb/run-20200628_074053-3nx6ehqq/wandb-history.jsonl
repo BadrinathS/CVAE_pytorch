@@ -1,3 +1,0 @@
-{"Train Loss": 162.0289986328125, "Images": {"width": 242, "height": 392, "format": "png", "count": 1, "_type": "images", "captions": ["Images for epoch: 1"]}, "_runtime": 48.26560425758362, "_timestamp": 1593330100.576096, "_step": 1}
-{"Train Loss": 138.63337434895834, "Images": {"width": 242, "height": 392, "format": "png", "count": 1, "_type": "images", "captions": ["Images for epoch: 2"]}, "_runtime": 68.27643942832947, "_timestamp": 1593330120.5869312, "_step": 2}
-{"Train Loss": 134.93011173502603, "_runtime": 68.27643942832947, "_timestamp": 1593330120.5869312, "_step": 3}
