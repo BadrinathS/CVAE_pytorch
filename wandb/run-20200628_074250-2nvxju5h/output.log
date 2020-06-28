@@ -1,0 +1,404 @@
+/opt/conda/envs/face/lib/python3.6/site-packages/torchvision/datasets/mnist.py:45: UserWarning: train_labels has been renamed targets
+  warnings.warn("train_labels has been renamed targets")
+/opt/conda/envs/face/lib/python3.6/site-packages/torch/nn/functional.py:1351: UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
+  warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
+Train epoch 0.0 	 Loss 543.593125
+Train epoch 1.0 	 Loss 174.99248046875
+Train epoch 2.0 	 Loss 158.978046875
+Train epoch 3.0 	 Loss 153.614716796875
+Train epoch 4.0 	 Loss 139.790068359375
+Train epoch 5.0 	 Loss 141.839697265625
+Average Loss:  162.3079845377604
+Test Loss:  tensor(14142.5693, device='cuda:0')
+Train epoch 0.0 	 Loss 134.27669921875
+Train epoch 1.0 	 Loss 136.436572265625
+Train epoch 2.0 	 Loss 141.986279296875
+Train epoch 3.0 	 Loss 135.873642578125
+Train epoch 4.0 	 Loss 143.582861328125
+Train epoch 5.0 	 Loss 147.61861328125
+Average Loss:  138.12358359375
+Test Loss:  tensor(13612.8574, device='cuda:0')
+Train epoch 0.0 	 Loss 141.592021484375
+Train epoch 1.0 	 Loss 137.75576171875
+Train epoch 2.0 	 Loss 135.012607421875
+Train epoch 3.0 	 Loss 135.3848046875
+Train epoch 4.0 	 Loss 133.481083984375
+Train epoch 5.0 	 Loss 135.476884765625
+Average Loss:  134.41950270182292
+Test Loss:  tensor(13348.0859, device='cuda:0')
+Train epoch 0.0 	 Loss 132.317763671875
+Train epoch 1.0 	 Loss 140.238759765625
+Train epoch 2.0 	 Loss 138.068193359375
+Train epoch 3.0 	 Loss 134.998603515625
+Train epoch 4.0 	 Loss 133.49341796875
+Train epoch 5.0 	 Loss 131.536796875
+Average Loss:  132.71499708658854
+Test Loss:  tensor(13272.4170, device='cuda:0')
+Train epoch 0.0 	 Loss 135.099306640625
+Train epoch 1.0 	 Loss 128.510322265625
+Train epoch 2.0 	 Loss 136.991337890625
+Train epoch 3.0 	 Loss 136.719306640625
+Train epoch 4.0 	 Loss 130.568525390625
+Train epoch 5.0 	 Loss 127.3275
+Average Loss:  131.7956809407552
+Test Loss:  tensor(13199.0850, device='cuda:0')
+Train epoch 0.0 	 Loss 124.479267578125
+Train epoch 1.0 	 Loss 135.972412109375
+Train epoch 2.0 	 Loss 129.361103515625
+Train epoch 3.0 	 Loss 132.383388671875
+Train epoch 4.0 	 Loss 126.515185546875
+Train epoch 5.0 	 Loss 129.7931640625
+Average Loss:  131.03959907226562
+Test Loss:  tensor(13153.7900, device='cuda:0')
+Train epoch 0.0 	 Loss 135.2971875
+Train epoch 1.0 	 Loss 133.909951171875
+Train epoch 2.0 	 Loss 134.923857421875
+Train epoch 3.0 	 Loss 127.66501953125
+Train epoch 4.0 	 Loss 132.78357421875
+Train epoch 5.0 	 Loss 121.18697265625
+Average Loss:  130.54773736979166
+Test Loss:  tensor(13123.5195, device='cuda:0')
+Train epoch 0.0 	 Loss 130.837236328125
+Train epoch 1.0 	 Loss 132.03857421875
+Train epoch 2.0 	 Loss 132.154052734375
+Train epoch 3.0 	 Loss 128.807568359375
+Train epoch 4.0 	 Loss 127.71919921875
+Train epoch 5.0 	 Loss 132.57435546875
+Average Loss:  130.09297890625
+Test Loss:  tensor(13054.2002, device='cuda:0')
+Train epoch 0.0 	 Loss 132.928837890625
+Train epoch 1.0 	 Loss 116.03064453125
+Train epoch 2.0 	 Loss 117.147392578125
+Train epoch 3.0 	 Loss 123.68
+Train epoch 4.0 	 Loss 132.74525390625
+Train epoch 5.0 	 Loss 122.869189453125
+Average Loss:  129.66205130208334
+Test Loss:  tensor(13018.2764, device='cuda:0')
+Train epoch 0.0 	 Loss 127.974765625
+Train epoch 1.0 	 Loss 134.04693359375
+Train epoch 2.0 	 Loss 133.83865234375
+Train epoch 3.0 	 Loss 131.068515625
+Train epoch 4.0 	 Loss 127.21064453125
+Train epoch 5.0 	 Loss 129.475625
+Average Loss:  129.27635577799478
+Test Loss:  tensor(13007.3789, device='cuda:0')
+Train epoch 0.0 	 Loss 130.220947265625
+Train epoch 1.0 	 Loss 130.9696875
+Train epoch 2.0 	 Loss 131.23560546875
+Train epoch 3.0 	 Loss 129.650361328125
+Train epoch 4.0 	 Loss 119.758955078125
+Train epoch 5.0 	 Loss 124.545341796875
+Average Loss:  128.9827678873698
+Test Loss:  tensor(12992.8564, device='cuda:0')
+Train epoch 0.0 	 Loss 121.48810546875
+Train epoch 1.0 	 Loss 131.23173828125
+Train epoch 2.0 	 Loss 134.327119140625
+Train epoch 3.0 	 Loss 131.202119140625
+Train epoch 4.0 	 Loss 130.38978515625
+Train epoch 5.0 	 Loss 129.850546875
+Average Loss:  128.66192950846354
+Test Loss:  tensor(12973.2295, device='cuda:0')
+Train epoch 0.0 	 Loss 128.467666015625
+Train epoch 1.0 	 Loss 124.4550390625
+Train epoch 2.0 	 Loss 129.848359375
+Train epoch 3.0 	 Loss 123.649052734375
+Train epoch 4.0 	 Loss 133.425322265625
+Train epoch 5.0 	 Loss 136.536220703125
+Average Loss:  128.39476412760416
+Test Loss:  tensor(12949.7422, device='cuda:0')
+Train epoch 0.0 	 Loss 132.955166015625
+Train epoch 1.0 	 Loss 125.843984375
+Train epoch 2.0 	 Loss 121.391328125
+Train epoch 3.0 	 Loss 128.332841796875
+Train epoch 4.0 	 Loss 128.99408203125
+Train epoch 5.0 	 Loss 131.08181640625
+Average Loss:  128.0953529622396
+Test Loss:  tensor(12936.3135, device='cuda:0')
+Train epoch 0.0 	 Loss 132.5773828125
+Train epoch 1.0 	 Loss 134.13712890625
+Train epoch 2.0 	 Loss 127.6508203125
+Train epoch 3.0 	 Loss 124.49890625
+Train epoch 4.0 	 Loss 130.9948828125
+Train epoch 5.0 	 Loss 125.624560546875
+Average Loss:  127.8647189453125
+Test Loss:  tensor(12911.5439, device='cuda:0')
+Train epoch 0.0 	 Loss 124.6579296875
+Train epoch 1.0 	 Loss 130.81189453125
+Train epoch 2.0 	 Loss 128.25615234375
+Train epoch 3.0 	 Loss 129.403740234375
+Train epoch 4.0 	 Loss 125.9131640625
+Train epoch 5.0 	 Loss 128.67341796875
+Average Loss:  127.63055120442708
+Test Loss:  tensor(12917.1211, device='cuda:0')
+Train epoch 0.0 	 Loss 123.914814453125
+Train epoch 1.0 	 Loss 123.24857421875
+Train epoch 2.0 	 Loss 129.599326171875
+Train epoch 3.0 	 Loss 129.2024609375
+Train epoch 4.0 	 Loss 130.2710546875
+Train epoch 5.0 	 Loss 131.449853515625
+Average Loss:  127.4192674967448
+Test Loss:  tensor(12888.0176, device='cuda:0')
+Train epoch 0.0 	 Loss 129.69513671875
+Train epoch 1.0 	 Loss 123.591923828125
+Train epoch 2.0 	 Loss 125.509248046875
+Train epoch 3.0 	 Loss 128.893427734375
+Train epoch 4.0 	 Loss 127.20166015625
+Train epoch 5.0 	 Loss 122.7991015625
+Average Loss:  127.20643357747396
+Test Loss:  tensor(12880.7070, device='cuda:0')
+Train epoch 0.0 	 Loss 131.921005859375
+Train epoch 1.0 	 Loss 123.9644140625
+Train epoch 2.0 	 Loss 126.81546875
+Train epoch 3.0 	 Loss 130.832294921875
+Train epoch 4.0 	 Loss 130.584248046875
+Train epoch 5.0 	 Loss 124.8879296875
+Average Loss:  126.98376884765625
+Test Loss:  tensor(12871.6719, device='cuda:0')
+Train epoch 0.0 	 Loss 118.794482421875
+Train epoch 1.0 	 Loss 126.715859375
+Train epoch 2.0 	 Loss 124.39900390625
+Train epoch 3.0 	 Loss 122.7837109375
+Train epoch 4.0 	 Loss 125.939404296875
+Train epoch 5.0 	 Loss 122.56494140625
+Average Loss:  126.77292146809896
+Test Loss:  tensor(12866.2744, device='cuda:0')
+Train epoch 0.0 	 Loss 129.981357421875
+Train epoch 1.0 	 Loss 123.59634765625
+Train epoch 2.0 	 Loss 130.92763671875
+Train epoch 3.0 	 Loss 129.49296875
+Train epoch 4.0 	 Loss 131.370859375
+Train epoch 5.0 	 Loss 129.252216796875
+Average Loss:  126.53917791341146
+Test Loss:  tensor(12839.4873, device='cuda:0')
+Train epoch 0.0 	 Loss 126.598681640625
+Train epoch 1.0 	 Loss 122.908154296875
+Train epoch 2.0 	 Loss 126.330361328125
+Train epoch 3.0 	 Loss 126.0689453125
+Train epoch 4.0 	 Loss 129.486484375
+Train epoch 5.0 	 Loss 124.768779296875
+Average Loss:  126.42350838216146
+Test Loss:  tensor(12839.9414, device='cuda:0')
+Train epoch 0.0 	 Loss 127.38849609375
+Train epoch 1.0 	 Loss 131.13306640625
+Train epoch 2.0 	 Loss 124.175615234375
+Train epoch 3.0 	 Loss 121.341259765625
+Train epoch 4.0 	 Loss 119.712275390625
+Train epoch 5.0 	 Loss 129.9073046875
+Average Loss:  126.27928751627604
+Test Loss:  tensor(12828.9551, device='cuda:0')
+Train epoch 0.0 	 Loss 120.406611328125
+Train epoch 1.0 	 Loss 119.650390625
+Train epoch 2.0 	 Loss 128.0364453125
+Train epoch 3.0 	 Loss 120.284697265625
+Train epoch 4.0 	 Loss 127.672666015625
+Train epoch 5.0 	 Loss 128.358447265625
+Average Loss:  126.02645084635417
+Test Loss:  tensor(12818.0801, device='cuda:0')
+Train epoch 0.0 	 Loss 113.539462890625
+Train epoch 1.0 	 Loss 123.588671875
+Train epoch 2.0 	 Loss 122.84314453125
+Train epoch 3.0 	 Loss 120.862998046875
+Train epoch 4.0 	 Loss 121.155634765625
+Train epoch 5.0 	 Loss 120.944580078125
+Average Loss:  126.00493400065105
+Test Loss:  tensor(12807.0400, device='cuda:0')
+Train epoch 0.0 	 Loss 126.422021484375
+Train epoch 1.0 	 Loss 126.2597265625
+Train epoch 2.0 	 Loss 127.554052734375
+Train epoch 3.0 	 Loss 123.479091796875
+Train epoch 4.0 	 Loss 123.232568359375
+Train epoch 5.0 	 Loss 133.47455078125
+Average Loss:  125.75601853841145
+Test Loss:  tensor(12802.6182, device='cuda:0')
+Train epoch 0.0 	 Loss 122.0132421875
+Train epoch 1.0 	 Loss 118.290859375
+Train epoch 2.0 	 Loss 125.90009765625
+Train epoch 3.0 	 Loss 125.17115234375
+Train epoch 4.0 	 Loss 122.195849609375
+Train epoch 5.0 	 Loss 127.725576171875
+Average Loss:  125.65706145833333
+Test Loss:  tensor(12810.0986, device='cuda:0')
+Train epoch 0.0 	 Loss 122.504365234375
+Train epoch 1.0 	 Loss 122.957744140625
+Train epoch 2.0 	 Loss 119.751259765625
+Train epoch 3.0 	 Loss 125.823388671875
+Train epoch 4.0 	 Loss 120.166552734375
+Train epoch 5.0 	 Loss 127.906474609375
+Average Loss:  125.52669913736979
+Test Loss:  tensor(12786.3350, device='cuda:0')
+Train epoch 0.0 	 Loss 118.060400390625
+Train epoch 1.0 	 Loss 124.208818359375
+Train epoch 2.0 	 Loss 129.03201171875
+Train epoch 3.0 	 Loss 121.277802734375
+Train epoch 4.0 	 Loss 122.72248046875
+Train epoch 5.0 	 Loss 120.81162109375
+Average Loss:  125.33231027018229
+Test Loss:  tensor(12786.7070, device='cuda:0')
+Train epoch 0.0 	 Loss 124.962421875
+Train epoch 1.0 	 Loss 124.520419921875
+Train epoch 2.0 	 Loss 125.760390625
+Train epoch 3.0 	 Loss 125.236826171875
+Train epoch 4.0 	 Loss 125.792822265625
+Train epoch 5.0 	 Loss 127.891298828125
+Average Loss:  125.25502495117188
+Test Loss:  tensor(12793.2314, device='cuda:0')
+Train epoch 0.0 	 Loss 132.571201171875
+Train epoch 1.0 	 Loss 128.44046875
+Train epoch 2.0 	 Loss 124.0155859375
+Train epoch 3.0 	 Loss 133.70537109375
+Train epoch 4.0 	 Loss 117.5787109375
+Train epoch 5.0 	 Loss 117.750361328125
+Average Loss:  124.99208403320313
+Test Loss:  tensor(12784.0273, device='cuda:0')
+Train epoch 0.0 	 Loss 123.77353515625
+Train epoch 1.0 	 Loss 116.13580078125
+Train epoch 2.0 	 Loss 117.4700390625
+Train epoch 3.0 	 Loss 118.654873046875
+Train epoch 4.0 	 Loss 129.18861328125
+Train epoch 5.0 	 Loss 127.31171875
+Average Loss:  124.88432454427084
+Test Loss:  tensor(12769.6133, device='cuda:0')
+Train epoch 0.0 	 Loss 129.73271484375
+Train epoch 1.0 	 Loss 124.360751953125
+Train epoch 2.0 	 Loss 125.567666015625
+Train epoch 3.0 	 Loss 133.073671875
+Train epoch 4.0 	 Loss 127.907431640625
+Train epoch 5.0 	 Loss 121.603837890625
+Average Loss:  124.79664072265625
+Test Loss:  tensor(12754.1875, device='cuda:0')
+Train epoch 0.0 	 Loss 121.218994140625
+Train epoch 1.0 	 Loss 125.35798828125
+Train epoch 2.0 	 Loss 124.37185546875
+Train epoch 3.0 	 Loss 128.045146484375
+Train epoch 4.0 	 Loss 120.09666015625
+Train epoch 5.0 	 Loss 122.52568359375
+Average Loss:  124.63740208333333
+Test Loss:  tensor(12777.2646, device='cuda:0')
+Train epoch 0.0 	 Loss 119.42279296875
+Train epoch 1.0 	 Loss 121.036484375
+Train epoch 2.0 	 Loss 119.272021484375
+Train epoch 3.0 	 Loss 122.719228515625
+Train epoch 4.0 	 Loss 120.502109375
+Train epoch 5.0 	 Loss 118.84576171875
+Average Loss:  124.66996665039062
+Test Loss:  tensor(12764.6514, device='cuda:0')
+Train epoch 0.0 	 Loss 125.868232421875
+Train epoch 1.0 	 Loss 124.146181640625
+Train epoch 2.0 	 Loss 121.990556640625
+Train epoch 3.0 	 Loss 118.908056640625
+Train epoch 4.0 	 Loss 124.49474609375
+Train epoch 5.0 	 Loss 124.341318359375
+Average Loss:  124.42749197591147
+Test Loss:  tensor(12774.7051, device='cuda:0')
+Train epoch 0.0 	 Loss 121.115947265625
+Train epoch 1.0 	 Loss 123.3143359375
+Train epoch 2.0 	 Loss 129.974697265625
+Train epoch 3.0 	 Loss 117.83474609375
+Train epoch 4.0 	 Loss 120.3946875
+Train epoch 5.0 	 Loss 131.008603515625
+Average Loss:  124.33179000651042
+Test Loss:  tensor(12750.1074, device='cuda:0')
+Train epoch 0.0 	 Loss 122.22458984375
+Train epoch 1.0 	 Loss 125.9450390625
+Train epoch 2.0 	 Loss 121.704970703125
+Train epoch 3.0 	 Loss 124.201083984375
+Train epoch 4.0 	 Loss 125.24298828125
+Train epoch 5.0 	 Loss 123.020068359375
+Average Loss:  124.33311837565104
+Test Loss:  tensor(12765.7188, device='cuda:0')
+Train epoch 0.0 	 Loss 122.792734375
+Train epoch 1.0 	 Loss 121.172646484375
+Train epoch 2.0 	 Loss 129.73861328125
+Train epoch 3.0 	 Loss 127.995234375
+Train epoch 4.0 	 Loss 124.697578125
+Train epoch 5.0 	 Loss 131.665771484375
+Average Loss:  124.20038857421875
+Test Loss:  tensor(12743.5361, device='cuda:0')
+Train epoch 0.0 	 Loss 130.352861328125
+Train epoch 1.0 	 Loss 126.309501953125
+Train epoch 2.0 	 Loss 122.613642578125
+Train epoch 3.0 	 Loss 123.444248046875
+Train epoch 4.0 	 Loss 127.204189453125
+Train epoch 5.0 	 Loss 123.056787109375
+Average Loss:  124.0331578125
+Test Loss:  tensor(12763.2656, device='cuda:0')
+Train epoch 0.0 	 Loss 116.559111328125
+Train epoch 1.0 	 Loss 123.4614453125
+Train epoch 2.0 	 Loss 120.244873046875
+Train epoch 3.0 	 Loss 122.59556640625
+Train epoch 4.0 	 Loss 128.017490234375
+Train epoch 5.0 	 Loss 127.809970703125
+Average Loss:  123.89569741210937
+Test Loss:  tensor(12742.4834, device='cuda:0')
+Train epoch 0.0 	 Loss 127.722373046875
+Train epoch 1.0 	 Loss 121.310146484375
+Train epoch 2.0 	 Loss 123.685146484375
+Train epoch 3.0 	 Loss 124.0881640625
+Train epoch 4.0 	 Loss 127.989453125
+Train epoch 5.0 	 Loss 120.06798828125
+Average Loss:  123.87082550455729
+Test Loss:  tensor(12732.4189, device='cuda:0')
+Train epoch 0.0 	 Loss 120.99435546875
+Train epoch 1.0 	 Loss 124.143212890625
+Train epoch 2.0 	 Loss 126.772548828125
+Train epoch 3.0 	 Loss 126.659296875
+Train epoch 4.0 	 Loss 126.268310546875
+Train epoch 5.0 	 Loss 128.356103515625
+Average Loss:  123.807637890625
+Test Loss:  tensor(12750.6650, device='cuda:0')
+Train epoch 0.0 	 Loss 123.334111328125
+Train epoch 1.0 	 Loss 129.001640625
+Train epoch 2.0 	 Loss 115.130810546875
+Train epoch 3.0 	 Loss 126.856298828125
+Train epoch 4.0 	 Loss 128.1958203125
+Train epoch 5.0 	 Loss 120.11064453125
+Average Loss:  123.6992267578125
+Test Loss:  tensor(12742.4258, device='cuda:0')
+Train epoch 0.0 	 Loss 121.420791015625
+Train epoch 1.0 	 Loss 121.71201171875
+Train epoch 2.0 	 Loss 134.42953125
+Train epoch 3.0 	 Loss 125.25126953125
+Train epoch 4.0 	 Loss 127.507421875
+Train epoch 5.0 	 Loss 122.769580078125
+Average Loss:  123.59717184244792
+Test Loss:  tensor(12734.0010, device='cuda:0')
+Train epoch 0.0 	 Loss 120.8650390625
+Train epoch 1.0 	 Loss 125.797509765625
+Train epoch 2.0 	 Loss 124.05359375
+Train epoch 3.0 	 Loss 122.184697265625
+Train epoch 4.0 	 Loss 128.699501953125
+Train epoch 5.0 	 Loss 122.7937890625
+Average Loss:  123.62933502604167
+Test Loss:  tensor(12725.4395, device='cuda:0')
+Train epoch 0.0 	 Loss 120.854443359375
+Train epoch 1.0 	 Loss 120.5944140625
+Train epoch 2.0 	 Loss 118.49201171875
+Train epoch 3.0 	 Loss 126.79619140625
+Train epoch 4.0 	 Loss 123.087294921875
+Train epoch 5.0 	 Loss 126.787060546875
+Average Loss:  123.46351424153646
+Test Loss:  tensor(12732.2031, device='cuda:0')
+Train epoch 0.0 	 Loss 124.096337890625
+Train epoch 1.0 	 Loss 126.521064453125
+Train epoch 2.0 	 Loss 119.483271484375
+Train epoch 3.0 	 Loss 128.2960546875
+Train epoch 4.0 	 Loss 122.840615234375
+Train epoch 5.0 	 Loss 120.438369140625
+Average Loss:  123.35807037760416
+Test Loss:  tensor(12728.4424, device='cuda:0')
+Train epoch 0.0 	 Loss 128.506083984375
+Train epoch 1.0 	 Loss 125.095234375
+Train epoch 2.0 	 Loss 128.7966015625
+Train epoch 3.0 	 Loss 116.6160546875
+Train epoch 4.0 	 Loss 127.55337890625
+Train epoch 5.0 	 Loss 119.958837890625
+Average Loss:  123.41968728841145
+Test Loss:  tensor(12737.0957, device='cuda:0')
+Train epoch 0.0 	 Loss 114.083876953125
+Train epoch 1.0 	 Loss 119.853544921875
+Train epoch 2.0 	 Loss 124.598720703125
+Train epoch 3.0 	 Loss 122.91302734375
+Train epoch 4.0 	 Loss 121.211474609375
+Train epoch 5.0 	 Loss 127.45453125
+Average Loss:  123.17802848307292
+Test Loss:  tensor(12729.5762, device='cuda:0')
